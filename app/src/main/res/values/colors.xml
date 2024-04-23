@@ -2,4 +2,14 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="title_text_color">#595085</color>
+    <color name="card_text_color">#FFFFFFFF</color>
+    <color name="task1">#403572</color>
+    <color name="task2">#FF5648</color>
+    <color name="task3">#403572</color>
+    <color name="strong_side_text_color">#479696</color>
+    <color name="background_strong_side">#F5F9F9</color>
+    <color name="weak_side_text_color">#FF7E73</color>
+    <color name="background_weak_side">#FFF4F4</color>
+    <color name="profile_head_color">#595085</color>
 </resources>

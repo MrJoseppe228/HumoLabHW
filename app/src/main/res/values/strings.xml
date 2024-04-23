@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">IT Frister</string>
+    <string name="change_profile"><u>Change profile</u></string>
 </resources>
